@@ -1,0 +1,23 @@
+_repo: A-Week-in-Wall-Street-By-One-Who-Knows_62012
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jackson, Frederick
+    gutenberg_agent_id: '51739'
+    url: http://www.gutenberg.org/2009/agents/51739
+description: ''
+gutenberg_issued: '2020-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62012'
+  lccn: '05001607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HG'
+- !lcsh 'Wall Street (New York, N.Y.)'
+- GITenberg
+title: "A Week in Wall Street\r\nBy One Who Knows"
+url: http://www.gutenberg.org/ebooks/62012
